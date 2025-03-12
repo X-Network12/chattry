@@ -4,6 +4,7 @@ import subprocess
 
 from pyrogram import idle
 
+from ChatBot import app  
 from ChatBot.modules import ALL_MODULES
 from config import WEB_APP  
 
